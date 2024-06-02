@@ -2,8 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
 ![HTML + CSS](https://img.shields.io/badge/HTML%20%2B%20CSS-Beginner%2FIntermediate-blue)
-![Profile Views](https://komarev.com/ghpvc/?username=3022-2)
----
+![Profile Views](https://komarev.com/ghpvc/?username=3022-2)  
+-
 stuff i do
 - GUI (graphical user interfaces) with [customtkinter](https://pypi.org/project/customtkinter/0.3/)
 - web scraping with [beautifulsoup4](https://pypi.org/project/beautifulsoup4/) and [selenium](https://pypi.org/project/selenium/)
