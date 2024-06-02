@@ -1,16 +1,15 @@
-## Hi there 👋
+# 3022-2
 
-<!--
-**3022-2/3022-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+![HTML + CSS](https://img.shields.io/badge/HTML%20%2B%20CSS-Beginner%2FIntermediate-brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=3022-2)
+---
+stuff i do
+- GUI (graphical user interfaces) with [customtkinter](https://pypi.org/project/customtkinter/0.3/)
+- web scraping with [beautifulsoup4](https://pypi.org/project/beautifulsoup4/) and [selenium](https://pypi.org/project/selenium/)
+- malware malware development (crypto clippers, grabbers)
+- API integrations/bypassers to use and abuse API functions without API keys - usually with webscraping methods
+---
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=3022-2&show_icons=true)
+---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=3022-2)
