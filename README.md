@@ -9,9 +9,8 @@ stuff i do
 - web scraping with [beautifulsoup4](https://pypi.org/project/beautifulsoup4/) and [selenium](https://pypi.org/project/selenium/)
 - malware development (crypto clippers, grabbers)
 - API integrations/bypassers to use and abuse API functions without API keys - usually with webscraping methods
----
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=3022-2&show_icons=true)
----
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=3022-2&show_icons=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=3022-2)
 ---
 contact/links
