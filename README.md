@@ -13,3 +13,6 @@ stuff i do
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=3022-2&show_icons=true)
 ---
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=3022-2)
+---
+contact/links
+- discord: cumsock0
