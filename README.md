@@ -14,4 +14,4 @@ stuff i do
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=3022-2)
 ---
 contact/links
-- discord: cumsock0
+- discord: hyperborean__
