@@ -14,4 +14,4 @@ stuff i do
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=3022-2)
 ---
 contact/links
-- discord: hyperborean__
+- discord: hyperborean__ (NO MORE - LOST ACCESS TO THE ACCOUNT)
