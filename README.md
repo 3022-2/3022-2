@@ -1,7 +1,8 @@
 # 3022-2
 # i dont really care what i write, im just bored lol
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
-![HTML + CSS](https://img.shields.io/badge/HTML%20%2B%20CSS-Beginner%2FIntermediate-blue)
+![HTML + CSS](https://img.shields.io/badge/HTML%20%2B%20CSS-Beginner%2FIntermediate-green)
+![Learning](https://img.shields.io/badge/learning-rust-orange)
 ![Profile Views](https://komarev.com/ghpvc/?username=3022-2)  
 -
 stuff i do
